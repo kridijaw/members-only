@@ -1,24 +1,23 @@
-# README
+# Rails Members Only!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created as part of The Odin Project.[^1]
 
-Things you may want to cover:
+## Requirement
 
-* Ruby version
+- Ruby `3.2.2`
+- Rails `7.1.3`
+- sqlite3 `1.4`
 
-* System dependencies
+## Install (First time only)
 
-* Configuration
+Dependencies
 
-* Database creation
+- Install ruby `3.2.2`
+- Install rails dependencies: `bundle install`
 
-* Database initialization
+## Database creation & initialization
 
-* How to run the test suite
+- `bin/rails db:create`
+- `bin/rails db:migrate`
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[^1]: The Odin Project. _Project: Members Only!_. https://www.theodinproject.com/lessons/ruby-on-rails-members-only
