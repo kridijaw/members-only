@@ -1,6 +1,6 @@
 # Rails Members Only!
 
-Created as part of The Odin Project[^1].
+Created as part of The Odin Project[^1]. Forum in which users can write posts. Guest can read the post but cannot see the author's name. Registered users can also see the author's name.
 
 ## Requirement
 
