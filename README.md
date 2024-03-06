@@ -20,4 +20,4 @@ Dependencies
 - `bin/rails db:create`
 - `bin/rails db:migrate`
 
-[^1]: The Odin Project. _Project: Members Only!_. https://www.theodinproject.com/lessons/ruby-on-rails-members-only
+[^1]: The Odin Project. _Project: Members Only!_ https://www.theodinproject.com/lessons/ruby-on-rails-members-only
