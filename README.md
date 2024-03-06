@@ -1,6 +1,6 @@
 # Rails Members Only!
 
-Created as part of The Odin Project.[^1]
+Created as part of The Odin Project[^1].
 
 ## Requirement
 
